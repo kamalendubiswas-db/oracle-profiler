@@ -40,7 +40,7 @@ When launching the script
 
 Due to Oracle kernel evolution, we tried to minimize the number of scripts and extractor script.
 
-When a tuple "Version", "Multitenancy Archicture", "RAC / Single Instance" has been tested, I was done on Linux ( **No test have been done on AIX, Solaris, nor HP-UX** )
+When a tuple "Version", "Multitenancy Archicture", "RAC / Single Instance" has been tested, It was done on Linux ( **No test have been done on AIX, Solaris, nor HP-UX** )
 
 We currently have two different tracks:
 * **The legacy track**. This track concerns Oracle version 11.2 and 12.1 (There's no compatible version for 10g and below)
