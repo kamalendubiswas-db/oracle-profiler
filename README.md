@@ -43,7 +43,7 @@ Due to Oracle kernel evolution, we tried to minimize the number of scripts and e
 When a tuple "Version", "Multitenancy Archicture", "RAC / Single Instance" has been tested, I was done on Linux ( **No test have been done on AIX, Solaris, nor HP-UX** )
 
 We currently have two different tracks:
-* The legacy track. This track concerns Oracle version 11.2 and 12.1 (There's no compatible version for 10g and below)
+* **The legacy track**. This track concerns Oracle version 11.2 and 12.1 (There's no compatible version for 10g and below)
 Scripts have been tested on the following versions:
 
 | Oracle Version  | MultiTenant/Legacy  | RAC  |Tested   |
@@ -56,7 +56,7 @@ Scripts have been tested on the following versions:
 | 12.1.0.2  | MT  | N  | Done  |
 
 
-* The main track. This track concerns Oracle versions (12.2, 19c and 21c)
+* **The main track**. This track concerns Oracle versions (12.2, 19c and 21c)
 Scripts tested on Oracle 19c (19.3) on linux - multitenant environment - No RAC
 
 | Oracle Version  | MultiTenant/Legacy  | RAC  |Tested   |
